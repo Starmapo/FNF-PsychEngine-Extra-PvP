@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"enemyOffsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "monster idle",
+			"playerOffsets": [
+				3,
+				0
+			]
+		},
+		{
+			"enemyOffsets": [
+				-20,
+				94
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "monster up note",
+			"playerOffsets": [
+				-37,
+				94
+			]
+		},
+		{
+			"enemyOffsets": [
+				-30,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Monster left note",
+			"playerOffsets": [
+				28,
+				20
+			]
+		},
+		{
+			"enemyOffsets": [
+				-51,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Monster Right note",
+			"playerOffsets": [
+				-51,
+				30
+			]
+		},
+		{
+			"enemyOffsets": [
+				-50,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "monster down",
+			"playerOffsets": [
+				2,
+				-80
+			]
+		},
+		{
+			"enemyOffsets": [
+				3,
+				0
+			],
+			"indices": [
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "monster idle",
+			"playerOffsets": [
+				3,
+				0
+			]
+		},
+		{
+			"enemyOffsets": [
+				-30,
+				20
+			],
+			"indices": [
+				17,
+				18,
+				19
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Monster left note",
+			"playerOffsets": [
+				28,
+				20
+			]
+		},
+		{
+			"enemyOffsets": [
+				-20,
+				94
+			],
+			"indices": [
+				21,
+				22,
+				23
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "monster up note",
+			"playerOffsets": [
+				-37,
+				94
+			]
+		},
+		{
+			"enemyOffsets": [
+				-51,
+				30
+			],
+			"indices": [
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Monster Right note",
+			"playerOffsets": [
+				-51,
+				30
+			]
+		},
+		{
+			"enemyOffsets": [
+				-50,
+				-80
+			],
+			"indices": [
+				27,
+				28,
+				29
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "monster down",
+			"playerOffsets": [
+				2,
+				-80
+			]
+		}
+	],
+	"enemy_position": [
+		-110,
+		100
+	],
+	"repeatHoldAnimation": true,
+	"no_antialiasing": false,
+	"image": "characters/Monster_Assets",
+	"enemy_cameraPosition": [
+		0,
+		0
+	],
+	"player_cameraPosition": [
+		0,
+		0
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"player_position": [
+		70,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

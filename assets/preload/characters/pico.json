@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"enemyOffsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Pico Idle Dance",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"enemyOffsets": [
+				-33,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pico Up note0",
+			"playerOffsets": [
+				12,
+				26
+			]
+		},
+		{
+			"enemyOffsets": [
+				195,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Pico Down Note0",
+			"playerOffsets": [
+				90,
+				-80
+			]
+		},
+		{
+			"enemyOffsets": [
+				200,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Pico Down Note MISS",
+			"playerOffsets": [
+				88,
+				-38
+			]
+		},
+		{
+			"enemyOffsets": [
+				-22,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "pico Up note miss",
+			"playerOffsets": [
+				21,
+				67
+			]
+		},
+		{
+			"enemyOffsets": [
+				-81,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pico NOTE LEFT0",
+			"playerOffsets": [
+				83,
+				-9
+			]
+		},
+		{
+			"enemyOffsets": [
+				54,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Pico Note Right0",
+			"playerOffsets": [
+				-47,
+				0
+			]
+		},
+		{
+			"enemyOffsets": [
+				59,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Pico Note Right Miss",
+			"playerOffsets": [
+				-39,
+				45
+			]
+		},
+		{
+			"enemyOffsets": [
+				-70,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Pico NOTE LEFT miss",
+			"playerOffsets": [
+				85,
+				24
+			]
+		}
+	],
+	"enemy_position": [
+		0,
+		300
+	],
+	"repeatHoldAnimation": true,
+	"no_antialiasing": false,
+	"image": "characters/Pico_FNF_assetss",
+	"enemy_cameraPosition": [
+		0,
+		0
+	],
+	"player_cameraPosition": [
+		0,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"player_position": [
+		0,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

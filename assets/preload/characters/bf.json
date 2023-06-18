@@ -1,0 +1,309 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"enemyOffsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"enemyOffsets": [
+				-34,
+				-6
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0",
+			"playerOffsets": [
+				9,
+				-6
+			]
+		},
+		{
+			"offsets": [
+				-20,
+				-51
+			],
+			"loop": false,
+			"enemyOffsets": [
+				-20,
+				-51
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0",
+			"playerOffsets": [
+				-12,
+				-51
+			]
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"enemyOffsets": [
+				4,
+				27
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0",
+			"playerOffsets": [
+				-45,
+				27
+			]
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"enemyOffsets": [
+				40,
+				-7
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0",
+			"playerOffsets": [
+				-43,
+				-7
+			]
+		},
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"enemyOffsets": [
+				-34,
+				19
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS",
+			"playerOffsets": [
+				7,
+				19
+			]
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"enemyOffsets": [
+				-20,
+				-19
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS",
+			"playerOffsets": [
+				-15,
+				-19
+			]
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"enemyOffsets": [
+				4,
+				27
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS",
+			"playerOffsets": [
+				-36,
+				27
+			]
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"enemyOffsets": [
+				40,
+				22
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS",
+			"playerOffsets": [
+				-43,
+				22
+			]
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"enemyOffsets": [
+				3,
+				5
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY",
+			"playerOffsets": [
+				2,
+				5
+			]
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"enemyOffsets": [
+				19,
+				18
+			],
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit",
+			"playerOffsets": [
+				17,
+				18
+			]
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"enemyOffsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking",
+			"playerOffsets": [
+				-1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"enemyOffsets": [
+				-26,
+				-16
+			],
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge",
+			"playerOffsets": [
+				-3,
+				-16
+			]
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"enemyOffsets": [
+				-3,
+				267
+			],
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack",
+			"playerOffsets": [
+				294,
+				267
+			]
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"enemyOffsets": [
+				0,
+				-40
+			],
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack",
+			"playerOffsets": [
+				-30,
+				-40
+			]
+		}
+	],
+	"repeatHoldAnimation": true,
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

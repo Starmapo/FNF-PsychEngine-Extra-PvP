@@ -1,0 +1,187 @@
+{
+	"animations": [
+		{
+			"enemyOffsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dad Sing Note LEFT",
+			"playerOffsets": [
+				-39,
+				10
+			]
+		},
+		{
+			"enemyOffsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dad Sing Note DOWN",
+			"playerOffsets": [
+				40,
+				-30
+			]
+		},
+		{
+			"enemyOffsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dad Sing Note UP",
+			"playerOffsets": [
+				-10,
+				50
+			]
+		},
+		{
+			"enemyOffsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dad Sing Note RIGHT",
+			"playerOffsets": [
+				40,
+				27
+			]
+		},
+		{
+			"enemyOffsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dad idle dance",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"enemyOffsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Dad idle dance",
+			"playerOffsets": [
+				0,
+				0
+			]
+		},
+		{
+			"enemyOffsets": [
+				-9,
+				10
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Dad Sing Note LEFT",
+			"playerOffsets": [
+				-39,
+				10
+			]
+		},
+		{
+			"enemyOffsets": [
+				0,
+				27
+			],
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Dad Sing Note RIGHT",
+			"playerOffsets": [
+				40,
+				27
+			]
+		},
+		{
+			"enemyOffsets": [
+				-6,
+				50
+			],
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Dad Sing Note UP",
+			"playerOffsets": [
+				-10,
+				50
+			]
+		}
+	],
+	"enemy_position": [
+		0,
+		0
+	],
+	"repeatHoldAnimation": true,
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"enemy_cameraPosition": [
+		0,
+		0
+	],
+	"player_cameraPosition": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"player_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
